@@ -1,0 +1,4550 @@
+{
+  "arhangel": {
+    "bastard": false,
+    "count": 941,
+    "lex": "arhangel",
+    "non_cyrillic": true,
+    "part_speech": {
+      "null": 941
+    },
+    "parts": "None"
+  },
+  "cjyybr": {
+    "bastard": false,
+    "count": 9688,
+    "lex": "cjyybr",
+    "non_cyrillic": true,
+    "part_speech": {
+      "null": 9688
+    },
+    "parts": "None"
+  },
+  "goroskop": {
+    "bastard": false,
+    "count": 1715,
+    "lex": "goroskop",
+    "non_cyrillic": true,
+    "part_speech": {
+      "null": 1715
+    },
+    "parts": "None"
+  },
+  "ignio": {
+    "bastard": false,
+    "count": 934,
+    "lex": "ignio",
+    "non_cyrillic": true,
+    "part_speech": {
+      "null": 934
+    },
+    "parts": "None"
+  },
+  "novosti": {
+    "bastard": false,
+    "count": 868,
+    "lex": "novosti",
+    "non_cyrillic": true,
+    "part_speech": {
+      "null": 868
+    },
+    "parts": "None"
+  },
+  "oculus": {
+    "bastard": false,
+    "count": 808,
+    "lex": "oculus",
+    "non_cyrillic": true,
+    "part_speech": {
+      "null": 808
+    },
+    "parts": "None"
+  },
+  "ru": {
+    "bastard": false,
+    "count": 2823,
+    "lex": "ru",
+    "non_cyrillic": true,
+    "part_speech": {
+      "null": 2823
+    },
+    "parts": "None"
+  },
+  "russian": {
+    "bastard": false,
+    "count": 868,
+    "lex": "russian",
+    "non_cyrillic": true,
+    "part_speech": {
+      "null": 868
+    },
+    "parts": "None"
+  },
+  "sonnik": {
+    "bastard": false,
+    "count": 1814,
+    "lex": "sonnik",
+    "non_cyrillic": true,
+    "part_speech": {
+      "null": 1814
+    },
+    "parts": "None"
+  },
+  "ujhjcrjg": {
+    "bastard": false,
+    "count": 8266,
+    "lex": "ujhjcrjg",
+    "non_cyrillic": true,
+    "part_speech": {
+      "null": 8266
+    },
+    "parts": "None"
+  },
+  "а": {
+    "bastard": false,
+    "count": 1498,
+    "lex": "а",
+    "non_cyrillic": false,
+    "part_speech": {
+      "CONJ": 1498
+    },
+    "parts": "CONJ"
+  },
+  "алекперов": {
+    "bastard": false,
+    "count": 1092,
+    "lex": "алекперов",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1092
+    },
+    "parts": "S"
+  },
+  "александр": {
+    "bastard": false,
+    "count": 1711,
+    "lex": "александр",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1711
+    },
+    "parts": "S"
+  },
+  "алексей": {
+    "bastard": false,
+    "count": 853,
+    "lex": "алексей",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 853
+    },
+    "parts": "S"
+  },
+  "алин": {
+    "bastard": false,
+    "count": 1208,
+    "lex": "алин",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1208
+    },
+    "parts": "S"
+  },
+  "алфавит": {
+    "bastard": false,
+    "count": 1805,
+    "lex": "алфавит",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1805
+    },
+    "parts": "S"
+  },
+  "анастасия": {
+    "bastard": false,
+    "count": 5253,
+    "lex": "анастасия",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 5253
+    },
+    "parts": "S"
+  },
+  "ангина": {
+    "bastard": false,
+    "count": 874,
+    "lex": "ангина",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 874
+    },
+    "parts": "S"
+  },
+  "андрей": {
+    "bastard": false,
+    "count": 1427,
+    "lex": "андрей",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1427
+    },
+    "parts": "S"
+  },
+  "анна": {
+    "bastard": false,
+    "count": 4055,
+    "lex": "анна",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 4055
+    },
+    "parts": "S"
+  },
+  "антибиотик": {
+    "bastard": false,
+    "count": 874,
+    "lex": "антибиотик",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 874
+    },
+    "parts": "S"
+  },
+  "артем": {
+    "bastard": false,
+    "count": 1291,
+    "lex": "артем",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1291
+    },
+    "parts": "S"
+  },
+  "архангел": {
+    "bastard": false,
+    "count": 7629,
+    "lex": "архангел",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 7629
+    },
+    "parts": "S"
+  },
+  "астрологический": {
+    "bastard": false,
+    "count": 14592,
+    "lex": "астрологический",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 14592
+    },
+    "parts": "A"
+  },
+  "астрология": {
+    "bastard": false,
+    "count": 1396,
+    "lex": "астрология",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1396
+    },
+    "parts": "S"
+  },
+  "астромеридиан": {
+    "bastard": true,
+    "count": 4208,
+    "lex": "астромеридиан",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 4208
+    },
+    "parts": "S"
+  },
+  "астропрогноз": {
+    "bastard": true,
+    "count": 2191,
+    "lex": "астропрогноз",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 2191
+    },
+    "parts": "S"
+  },
+  "астроскоп": {
+    "bastard": false,
+    "count": 813,
+    "lex": "астроскоп",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 813
+    },
+    "parts": "S"
+  },
+  "астроцентр": {
+    "bastard": true,
+    "count": 1135,
+    "lex": "астроцентр",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1135
+    },
+    "parts": "S"
+  },
+  "беда": {
+    "bastard": false,
+    "count": 2432,
+    "lex": "беда",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 2432
+    },
+    "parts": "S"
+  },
+  "без": {
+    "bastard": false,
+    "count": 2384,
+    "lex": "без",
+    "non_cyrillic": false,
+    "part_speech": {
+      "PR": 2384
+    },
+    "parts": "PR"
+  },
+  "беременность": {
+    "bastard": false,
+    "count": 12058,
+    "lex": "беременность",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 12058
+    },
+    "parts": "S"
+  },
+  "бесплатно": {
+    "bastard": false,
+    "count": 274028,
+    "lex": "бесплатно",
+    "non_cyrillic": false,
+    "part_speech": {
+      "ADV": 274028
+    },
+    "parts": "ADV"
+  },
+  "бесплатный": {
+    "bastard": false,
+    "count": 1784,
+    "lex": "бесплатный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 1784
+    },
+    "parts": "A"
+  },
+  "биография": {
+    "bastard": false,
+    "count": 6229,
+    "lex": "биография",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 6229
+    },
+    "parts": "S"
+  },
+  "битва": {
+    "bastard": false,
+    "count": 12738,
+    "lex": "битва",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 12738
+    },
+    "parts": "S"
+  },
+  "благоприятный": {
+    "bastard": false,
+    "count": 51339,
+    "lex": "благоприятный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 51339
+    },
+    "parts": "A"
+  },
+  "близкий": {
+    "bastard": false,
+    "count": 7934,
+    "lex": "близкий",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 7934
+    },
+    "parts": "A"
+  },
+  "близнец": {
+    "bastard": false,
+    "count": 40968,
+    "lex": "близнец",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 40968
+    },
+    "parts": "S"
+  },
+  "божий": {
+    "bastard": false,
+    "count": 984,
+    "lex": "божий",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 984
+    },
+    "parts": "A"
+  },
+  "большой": {
+    "bastard": false,
+    "count": 3018,
+    "lex": "большой",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 3018
+    },
+    "parts": "A"
+  },
+  "брак": {
+    "bastard": false,
+    "count": 4397,
+    "lex": "брак",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 4397
+    },
+    "parts": "S"
+  },
+  "будущее": {
+    "bastard": false,
+    "count": 16388,
+    "lex": "будущее",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 16388
+    },
+    "parts": "S"
+  },
+  "буря": {
+    "bastard": false,
+    "count": 2919,
+    "lex": "буря",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 2919
+    },
+    "parts": "S"
+  },
+  "бывший": {
+    "bastard": false,
+    "count": 1316,
+    "lex": "бывший",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 1316
+    },
+    "parts": "A"
+  },
+  "быть": {
+    "bastard": false,
+    "count": 9867,
+    "lex": "быть",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 9867
+    },
+    "parts": "V"
+  },
+  "бюджетник": {
+    "bastard": false,
+    "count": 1702,
+    "lex": "бюджетник",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1702
+    },
+    "parts": "S"
+  },
+  "в": {
+    "bastard": false,
+    "count": 166289,
+    "lex": "в",
+    "non_cyrillic": false,
+    "part_speech": {
+      "PR": 166289
+    },
+    "parts": "PR"
+  },
+  "ванг": {
+    "bastard": false,
+    "count": 12189,
+    "lex": "ванг",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 12189
+    },
+    "parts": "S"
+  },
+  "ванга": {
+    "bastard": false,
+    "count": 17907,
+    "lex": "ванга",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 17907
+    },
+    "parts": "S"
+  },
+  "василиса": {
+    "bastard": false,
+    "count": 17786,
+    "lex": "василиса",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 17786
+    },
+    "parts": "S"
+  },
+  "великий": {
+    "bastard": false,
+    "count": 3378,
+    "lex": "великий",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 3378
+    },
+    "parts": "A"
+  },
+  "вера": {
+    "bastard": false,
+    "count": 2125,
+    "lex": "вера",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 2125
+    },
+    "parts": "S"
+  },
+  "весы": {
+    "bastard": false,
+    "count": 29261,
+    "lex": "весы",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 29261
+    },
+    "parts": "S"
+  },
+  "весь": {
+    "bastard": false,
+    "count": 2606,
+    "lex": "весь",
+    "non_cyrillic": false,
+    "part_speech": {
+      "APRO": 2606
+    },
+    "parts": "APRO"
+  },
+  "вещий": {
+    "bastard": false,
+    "count": 1134,
+    "lex": "вещий",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 1134
+    },
+    "parts": "A"
+  },
+  "видеть": {
+    "bastard": false,
+    "count": 1159,
+    "lex": "видеть",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 1159
+    },
+    "parts": "V"
+  },
+  "виктория": {
+    "bastard": false,
+    "count": 1119,
+    "lex": "виктория",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1119
+    },
+    "parts": "S"
+  },
+  "владимир": {
+    "bastard": false,
+    "count": 773,
+    "lex": "владимир",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 773
+    },
+    "parts": "S"
+  },
+  "во": {
+    "bastard": false,
+    "count": 2746,
+    "lex": "во",
+    "non_cyrillic": false,
+    "part_speech": {
+      "PR": 2746
+    },
+    "parts": "PR"
+  },
+  "вода": {
+    "bastard": false,
+    "count": 1213,
+    "lex": "вода",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1213
+    },
+    "parts": "S"
+  },
+  "водолей": {
+    "bastard": false,
+    "count": 23407,
+    "lex": "водолей",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 23407
+    },
+    "parts": "S"
+  },
+  "военный": {
+    "bastard": false,
+    "count": 8011,
+    "lex": "военный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 5253,
+      "S": 2758
+    },
+    "parts": "A,S"
+  },
+  "возраст": {
+    "bastard": false,
+    "count": 1674,
+    "lex": "возраст",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1674
+    },
+    "parts": "S"
+  },
+  "война": {
+    "bastard": false,
+    "count": 1421,
+    "lex": "война",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1421
+    },
+    "parts": "S"
+  },
+  "володин": {
+    "bastard": false,
+    "count": 7324,
+    "lex": "володин",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 7324
+    },
+    "parts": "S"
+  },
+  "володина": {
+    "bastard": false,
+    "count": 10462,
+    "lex": "володина",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 10462
+    },
+    "parts": "S"
+  },
+  "волос": {
+    "bastard": false,
+    "count": 33317,
+    "lex": "волос",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 33317
+    },
+    "parts": "S"
+  },
+  "вольф": {
+    "bastard": false,
+    "count": 959,
+    "lex": "вольф",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 959
+    },
+    "parts": "S"
+  },
+  "вопрос": {
+    "bastard": false,
+    "count": 1048,
+    "lex": "вопрос",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1048
+    },
+    "parts": "S"
+  },
+  "воспаление": {
+    "bastard": false,
+    "count": 7308,
+    "lex": "воспаление",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 7308
+    },
+    "parts": "S"
+  },
+  "восточный": {
+    "bastard": false,
+    "count": 28505,
+    "lex": "восточный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 28505
+    },
+    "parts": "A"
+  },
+  "вошь": {
+    "bastard": false,
+    "count": 1794,
+    "lex": "вошь",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1794
+    },
+    "parts": "S"
+  },
+  "время": {
+    "bastard": false,
+    "count": 2676,
+    "lex": "время",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 2676
+    },
+    "parts": "S"
+  },
+  "всегда": {
+    "bastard": false,
+    "count": 1304,
+    "lex": "всегда",
+    "non_cyrillic": false,
+    "part_speech": {
+      "ADVPRO": 1304
+    },
+    "parts": "ADVPRO"
+  },
+  "встречать": {
+    "bastard": false,
+    "count": 3524,
+    "lex": "встречать",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 3524
+    },
+    "parts": "V"
+  },
+  "второй": {
+    "bastard": false,
+    "count": 1420,
+    "lex": "второй",
+    "non_cyrillic": false,
+    "part_speech": {
+      "ANUM": 1420
+    },
+    "parts": "ANUM"
+  },
+  "выделение": {
+    "bastard": false,
+    "count": 923,
+    "lex": "выделение",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 923
+    },
+    "parts": "S"
+  },
+  "выпуск": {
+    "bastard": false,
+    "count": 2563,
+    "lex": "выпуск",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 2563
+    },
+    "parts": "S"
+  },
+  "выходной": {
+    "bastard": false,
+    "count": 76635,
+    "lex": "выходной",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 5242,
+      "S": 71393
+    },
+    "parts": "S,A"
+  },
+  "г": {
+    "bastard": false,
+    "count": 17428,
+    "lex": "г",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 17428
+    },
+    "parts": "S"
+  },
+  "гавно": {
+    "bastard": false,
+    "count": 2561,
+    "lex": "гавно",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 2561
+    },
+    "parts": "S"
+  },
+  "гадание": {
+    "bastard": false,
+    "count": 491895,
+    "lex": "гадание",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 491895
+    },
+    "parts": "S"
+  },
+  "гадать": {
+    "bastard": false,
+    "count": 9599,
+    "lex": "гадать",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 9599
+    },
+    "parts": "V"
+  },
+  "газета": {
+    "bastard": false,
+    "count": 1464,
+    "lex": "газета",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1464
+    },
+    "parts": "S"
+  },
+  "гексаграмм": {
+    "bastard": true,
+    "count": 1342,
+    "lex": "гексаграмм",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1342
+    },
+    "parts": "S"
+  },
+  "глоб": {
+    "bastard": true,
+    "count": 835,
+    "lex": "глоб",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 835
+    },
+    "parts": "S"
+  },
+  "год": {
+    "bastard": false,
+    "count": 740167,
+    "lex": "год",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 740167
+    },
+    "parts": "S"
+  },
+  "горос": {
+    "bastard": true,
+    "count": 825,
+    "lex": "горос",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 825
+    },
+    "parts": "S"
+  },
+  "гороскоп": {
+    "bastard": false,
+    "count": 1503814,
+    "lex": "гороскоп",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1503814
+    },
+    "parts": "S"
+  },
+  "гриб": {
+    "bastard": false,
+    "count": 1284,
+    "lex": "гриб",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1284
+    },
+    "parts": "S"
+  },
+  "гуща": {
+    "bastard": false,
+    "count": 19732,
+    "lex": "гуща",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 19732
+    },
+    "parts": "S"
+  },
+  "да": {
+    "bastard": false,
+    "count": 26081,
+    "lex": "да",
+    "non_cyrillic": false,
+    "part_speech": {
+      "CONJ": 26081
+    },
+    "parts": "CONJ"
+  },
+  "даматаро": {
+    "bastard": true,
+    "count": 1130,
+    "lex": "даматаро",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1130
+    },
+    "parts": "S"
+  },
+  "дарья": {
+    "bastard": false,
+    "count": 1771,
+    "lex": "дарья",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1771
+    },
+    "parts": "S"
+  },
+  "дата": {
+    "bastard": false,
+    "count": 59249,
+    "lex": "дата",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 59249
+    },
+    "parts": "S"
+  },
+  "дева": {
+    "bastard": false,
+    "count": 31987,
+    "lex": "дева",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 31987
+    },
+    "parts": "S"
+  },
+  "девочка": {
+    "bastard": false,
+    "count": 33855,
+    "lex": "девочка",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 33855
+    },
+    "parts": "S"
+  },
+  "декабрь": {
+    "bastard": false,
+    "count": 105187,
+    "lex": "декабрь",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 105187
+    },
+    "parts": "S"
+  },
+  "демон": {
+    "bastard": false,
+    "count": 954,
+    "lex": "демон",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 954
+    },
+    "parts": "S"
+  },
+  "день": {
+    "bastard": false,
+    "count": 103661,
+    "lex": "день",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 103661
+    },
+    "parts": "S"
+  },
+  "деньги": {
+    "bastard": false,
+    "count": 828,
+    "lex": "деньги",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 828
+    },
+    "parts": "S"
+  },
+  "джулия": {
+    "bastard": false,
+    "count": 8985,
+    "lex": "джулия",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 8985
+    },
+    "parts": "S"
+  },
+  "для": {
+    "bastard": false,
+    "count": 102509,
+    "lex": "для",
+    "non_cyrillic": false,
+    "part_speech": {
+      "PR": 102509
+    },
+    "parts": "PR"
+  },
+  "дмитрий": {
+    "bastard": false,
+    "count": 1772,
+    "lex": "дмитрий",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1772
+    },
+    "parts": "S"
+  },
+  "до": {
+    "bastard": false,
+    "count": 1498,
+    "lex": "до",
+    "non_cyrillic": false,
+    "part_speech": {
+      "PR": 1498
+    },
+    "parts": "PR"
+  },
+  "доллар": {
+    "bastard": false,
+    "count": 7242,
+    "lex": "доллар",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 7242
+    },
+    "parts": "S"
+  },
+  "дом": {
+    "bastard": false,
+    "count": 797,
+    "lex": "дом",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 797
+    },
+    "parts": "S"
+  },
+  "друид": {
+    "bastard": false,
+    "count": 1968,
+    "lex": "друид",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1968
+    },
+    "parts": "S"
+  },
+  "думать": {
+    "bastard": false,
+    "count": 801,
+    "lex": "думать",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 801
+    },
+    "parts": "V"
+  },
+  "еврейский": {
+    "bastard": false,
+    "count": 1838,
+    "lex": "еврейский",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 1838
+    },
+    "parts": "A"
+  },
+  "екатерина": {
+    "bastard": false,
+    "count": 2000,
+    "lex": "екатерина",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 2000
+    },
+    "parts": "S"
+  },
+  "екатерининский": {
+    "bastard": false,
+    "count": 1324,
+    "lex": "екатерининский",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 1324
+    },
+    "parts": "A"
+  },
+  "елена": {
+    "bastard": false,
+    "count": 1574,
+    "lex": "елена",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1574
+    },
+    "parts": "S"
+  },
+  "елизавета": {
+    "bastard": false,
+    "count": 981,
+    "lex": "елизавета",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 981
+    },
+    "parts": "S"
+  },
+  "ждать": {
+    "bastard": false,
+    "count": 7543,
+    "lex": "ждать",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 7543
+    },
+    "parts": "V"
+  },
+  "желание": {
+    "bastard": false,
+    "count": 1899,
+    "lex": "желание",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1899
+    },
+    "parts": "S"
+  },
+  "женский": {
+    "bastard": false,
+    "count": 21522,
+    "lex": "женский",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 21522
+    },
+    "parts": "A"
+  },
+  "женщина": {
+    "bastard": false,
+    "count": 13146,
+    "lex": "женщина",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 13146
+    },
+    "parts": "S"
+  },
+  "живой": {
+    "bastard": false,
+    "count": 1159,
+    "lex": "живой",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 1159
+    },
+    "parts": "A"
+  },
+  "животное": {
+    "bastard": false,
+    "count": 21618,
+    "lex": "животное",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 21618
+    },
+    "parts": "S"
+  },
+  "жизнь": {
+    "bastard": false,
+    "count": 4368,
+    "lex": "жизнь",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 4368
+    },
+    "parts": "S"
+  },
+  "завтра": {
+    "bastard": false,
+    "count": 198450,
+    "lex": "завтра",
+    "non_cyrillic": false,
+    "part_speech": {
+      "ADV": 198450
+    },
+    "parts": "ADV"
+  },
+  "заговор": {
+    "bastard": false,
+    "count": 1175,
+    "lex": "заговор",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1175
+    },
+    "parts": "S"
+  },
+  "задиак": {
+    "bastard": true,
+    "count": 855,
+    "lex": "задиак",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 855
+    },
+    "parts": "S"
+  },
+  "заканчиваться": {
+    "bastard": false,
+    "count": 1421,
+    "lex": "заканчиваться",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 1421
+    },
+    "parts": "V"
+  },
+  "запах": {
+    "bastard": false,
+    "count": 923,
+    "lex": "запах",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 923
+    },
+    "parts": "S"
+  },
+  "зарплата": {
+    "bastard": false,
+    "count": 1702,
+    "lex": "зарплата",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1702
+    },
+    "parts": "S"
+  },
+  "зимний": {
+    "bastard": false,
+    "count": 774,
+    "lex": "зимний",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 774
+    },
+    "parts": "A"
+  },
+  "змея": {
+    "bastard": false,
+    "count": 8321,
+    "lex": "змея",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 8321
+    },
+    "parts": "S"
+  },
+  "знак": {
+    "bastard": false,
+    "count": 272803,
+    "lex": "знак",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 272803
+    },
+    "parts": "S"
+  },
+  "значение": {
+    "bastard": false,
+    "count": 94554,
+    "lex": "значение",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 94554
+    },
+    "parts": "S"
+  },
+  "зодиак": {
+    "bastard": false,
+    "count": 270101,
+    "lex": "зодиак",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 270101
+    },
+    "parts": "S"
+  },
+  "зодиакальный": {
+    "bastard": false,
+    "count": 781,
+    "lex": "зодиакальный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 781
+    },
+    "parts": "A"
+  },
+  "золото": {
+    "bastard": false,
+    "count": 1023,
+    "lex": "золото",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1023
+    },
+    "parts": "S"
+  },
+  "зороастрийский": {
+    "bastard": true,
+    "count": 947,
+    "lex": "зороастрийский",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 947
+    },
+    "parts": "A"
+  },
+  "зуб": {
+    "bastard": false,
+    "count": 942,
+    "lex": "зуб",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 942
+    },
+    "parts": "S"
+  },
+  "и": {
+    "bastard": false,
+    "count": 121862,
+    "lex": "и",
+    "non_cyrillic": false,
+    "part_speech": {
+      "CONJ": 121862
+    },
+    "parts": "CONJ"
+  },
+  "иван": {
+    "bastard": false,
+    "count": 1045,
+    "lex": "иван",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1045
+    },
+    "parts": "S"
+  },
+  "игнио": {
+    "bastard": true,
+    "count": 4160,
+    "lex": "игнио",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 4160
+    },
+    "parts": "S"
+  },
+  "игральный": {
+    "bastard": false,
+    "count": 1270,
+    "lex": "игральный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 1270
+    },
+    "parts": "A"
+  },
+  "играть": {
+    "bastard": false,
+    "count": 1003,
+    "lex": "играть",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 1003
+    },
+    "parts": "V"
+  },
+  "икалка": {
+    "bastard": true,
+    "count": 776,
+    "lex": "икалка",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 776
+    },
+    "parts": "S"
+  },
+  "или": {
+    "bastard": false,
+    "count": 3692,
+    "lex": "или",
+    "non_cyrillic": false,
+    "part_speech": {
+      "CONJ": 3692
+    },
+    "parts": "CONJ"
+  },
+  "илья": {
+    "bastard": false,
+    "count": 1045,
+    "lex": "илья",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1045
+    },
+    "parts": "S"
+  },
+  "именины": {
+    "bastard": false,
+    "count": 2076,
+    "lex": "именины",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 2076
+    },
+    "parts": "S"
+  },
+  "имущество": {
+    "bastard": false,
+    "count": 4762,
+    "lex": "имущество",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 4762
+    },
+    "parts": "S"
+  },
+  "имя": {
+    "bastard": false,
+    "count": 201925,
+    "lex": "имя",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 201925
+    },
+    "parts": "S"
+  },
+  "индексация": {
+    "bastard": false,
+    "count": 3500,
+    "lex": "индексация",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 3500
+    },
+    "parts": "S"
+  },
+  "индийский": {
+    "bastard": false,
+    "count": 2709,
+    "lex": "индийский",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 2709
+    },
+    "parts": "A"
+  },
+  "ирина": {
+    "bastard": false,
+    "count": 1280,
+    "lex": "ирина",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1280
+    },
+    "parts": "S"
+  },
+  "их": {
+    "bastard": false,
+    "count": 8578,
+    "lex": "их",
+    "non_cyrillic": false,
+    "part_speech": {
+      "APRO": 8578
+    },
+    "parts": "APRO"
+  },
+  "к": {
+    "bastard": false,
+    "count": 59586,
+    "lex": "к",
+    "non_cyrillic": false,
+    "part_speech": {
+      "PR": 59586
+    },
+    "parts": "PR"
+  },
+  "каждый": {
+    "bastard": false,
+    "count": 1508,
+    "lex": "каждый",
+    "non_cyrillic": false,
+    "part_speech": {
+      "APRO": 1508
+    },
+    "parts": "APRO"
+  },
+  "казанский": {
+    "bastard": false,
+    "count": 984,
+    "lex": "казанский",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 984
+    },
+    "parts": "A"
+  },
+  "как": {
+    "bastard": false,
+    "count": 6306,
+    "lex": "как",
+    "non_cyrillic": false,
+    "part_speech": {
+      "ADVPRO": 3056,
+      "CONJ": 3250
+    },
+    "parts": "CONJ,ADVPRO"
+  },
+  "какой": {
+    "bastard": false,
+    "count": 49408,
+    "lex": "какой",
+    "non_cyrillic": false,
+    "part_speech": {
+      "APRO": 49408
+    },
+    "parts": "APRO"
+  },
+  "календар": {
+    "bastard": true,
+    "count": 887,
+    "lex": "календар",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 887
+    },
+    "parts": "S"
+  },
+  "календарь": {
+    "bastard": false,
+    "count": 426813,
+    "lex": "календарь",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 426813
+    },
+    "parts": "S"
+  },
+  "камень": {
+    "bastard": false,
+    "count": 13875,
+    "lex": "камень",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 13875
+    },
+    "parts": "S"
+  },
+  "каникулы": {
+    "bastard": false,
+    "count": 774,
+    "lex": "каникулы",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 774
+    },
+    "parts": "S"
+  },
+  "карта": {
+    "bastard": false,
+    "count": 81877,
+    "lex": "карта",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 81877
+    },
+    "parts": "S"
+  },
+  "квадрат": {
+    "bastard": false,
+    "count": 3195,
+    "lex": "квадрат",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 3195
+    },
+    "parts": "S"
+  },
+  "керро": {
+    "bastard": true,
+    "count": 782,
+    "lex": "керро",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 782
+    },
+    "parts": "S"
+  },
+  "китайский": {
+    "bastard": false,
+    "count": 11575,
+    "lex": "китайский",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 11575
+    },
+    "parts": "A"
+  },
+  "кладбище": {
+    "bastard": false,
+    "count": 2053,
+    "lex": "кладбище",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 2053
+    },
+    "parts": "S"
+  },
+  "кличка": {
+    "bastard": false,
+    "count": 1805,
+    "lex": "кличка",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1805
+    },
+    "parts": "S"
+  },
+  "книга": {
+    "bastard": false,
+    "count": 45391,
+    "lex": "книга",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 45391
+    },
+    "parts": "S"
+  },
+  "когда": {
+    "bastard": false,
+    "count": 24270,
+    "lex": "когда",
+    "non_cyrillic": false,
+    "part_speech": {
+      "ADVPRO": 18413,
+      "CONJ": 5857
+    },
+    "parts": "ADVPRO,CONJ"
+  },
+  "коза": {
+    "bastard": false,
+    "count": 11110,
+    "lex": "коза",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 11110
+    },
+    "parts": "S"
+  },
+  "козерог": {
+    "bastard": false,
+    "count": 30242,
+    "lex": "козерог",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 30242
+    },
+    "parts": "S"
+  },
+  "корпоратив": {
+    "bastard": false,
+    "count": 7191,
+    "lex": "корпоратив",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 7191
+    },
+    "parts": "S"
+  },
+  "косынка": {
+    "bastard": false,
+    "count": 1003,
+    "lex": "косынка",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1003
+    },
+    "parts": "S"
+  },
+  "который": {
+    "bastard": false,
+    "count": 2617,
+    "lex": "который",
+    "non_cyrillic": false,
+    "part_speech": {
+      "APRO": 2617
+    },
+    "parts": "APRO"
+  },
+  "кофейный": {
+    "bastard": false,
+    "count": 19732,
+    "lex": "кофейный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 19732
+    },
+    "parts": "A"
+  },
+  "кошка": {
+    "bastard": false,
+    "count": 4378,
+    "lex": "кошка",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 4378
+    },
+    "parts": "S"
+  },
+  "красивый": {
+    "bastard": false,
+    "count": 2910,
+    "lex": "красивый",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 2910
+    },
+    "parts": "A"
+  },
+  "кризис": {
+    "bastard": false,
+    "count": 1351,
+    "lex": "кризис",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1351
+    },
+    "parts": "S"
+  },
+  "кровь": {
+    "bastard": false,
+    "count": 2394,
+    "lex": "кровь",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 2394
+    },
+    "parts": "S"
+  },
+  "крыса": {
+    "bastard": false,
+    "count": 4699,
+    "lex": "крыса",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 4699
+    },
+    "parts": "S"
+  },
+  "кто": {
+    "bastard": false,
+    "count": 16351,
+    "lex": "кто",
+    "non_cyrillic": false,
+    "part_speech": {
+      "SPRO": 16351
+    },
+    "parts": "SPRO"
+  },
+  "курс": {
+    "bastard": false,
+    "count": 4665,
+    "lex": "курс",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 4665
+    },
+    "parts": "S"
+  },
+  "ларина": {
+    "bastard": false,
+    "count": 2926,
+    "lex": "ларина",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 2926
+    },
+    "parts": "S"
+  },
+  "лев": {
+    "bastard": false,
+    "count": 30262,
+    "lex": "лев",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 30262
+    },
+    "parts": "S"
+  },
+  "легкое": {
+    "bastard": false,
+    "count": 7308,
+    "lex": "легкое",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 7308
+    },
+    "parts": "S"
+  },
+  "ли": {
+    "bastard": false,
+    "count": 2472,
+    "lex": "ли",
+    "non_cyrillic": false,
+    "part_speech": {
+      "PART": 2472
+    },
+    "parts": "PART"
+  },
+  "линия": {
+    "bastard": false,
+    "count": 8186,
+    "lex": "линия",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 8186
+    },
+    "parts": "S"
+  },
+  "лион": {
+    "bastard": false,
+    "count": 2125,
+    "lex": "лион",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 2125
+    },
+    "parts": "S"
+  },
+  "листопад": {
+    "bastard": false,
+    "count": 887,
+    "lex": "листопад",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 887
+    },
+    "parts": "S"
+  },
+  "лицо": {
+    "bastard": false,
+    "count": 4762,
+    "lex": "лицо",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 4762
+    },
+    "parts": "S"
+  },
+  "лошадь": {
+    "bastard": false,
+    "count": 1064,
+    "lex": "лошадь",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1064
+    },
+    "parts": "S"
+  },
+  "луна": {
+    "bastard": false,
+    "count": 92778,
+    "lex": "луна",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 92778
+    },
+    "parts": "S"
+  },
+  "лунний": {
+    "bastard": true,
+    "count": 887,
+    "lex": "лунний",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 887
+    },
+    "parts": "A"
+  },
+  "лунный": {
+    "bastard": false,
+    "count": 320111,
+    "lex": "лунный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 320111
+    },
+    "parts": "A"
+  },
+  "любимый": {
+    "bastard": false,
+    "count": 854,
+    "lex": "любимый",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 854
+    },
+    "parts": "A"
+  },
+  "любовный": {
+    "bastard": false,
+    "count": 13719,
+    "lex": "любовный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 13719
+    },
+    "parts": "A"
+  },
+  "любовь": {
+    "bastard": false,
+    "count": 63063,
+    "lex": "любовь",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 63063
+    },
+    "parts": "S"
+  },
+  "магия": {
+    "bastard": false,
+    "count": 2880,
+    "lex": "магия",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 2880
+    },
+    "parts": "S"
+  },
+  "магнитный": {
+    "bastard": false,
+    "count": 2919,
+    "lex": "магнитный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 2919
+    },
+    "parts": "A"
+  },
+  "майл": {
+    "bastard": false,
+    "count": 8115,
+    "lex": "майл",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 8115
+    },
+    "parts": "S"
+  },
+  "максим": {
+    "bastard": false,
+    "count": 1565,
+    "lex": "максим",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1565
+    },
+    "parts": "S"
+  },
+  "мальчик": {
+    "bastard": false,
+    "count": 24519,
+    "lex": "мальчик",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 24519
+    },
+    "parts": "S"
+  },
+  "марина": {
+    "bastard": false,
+    "count": 953,
+    "lex": "марина",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 953
+    },
+    "parts": "S"
+  },
+  "мария": {
+    "bastard": false,
+    "count": 1613,
+    "lex": "мария",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1613
+    },
+    "parts": "S"
+  },
+  "масленица": {
+    "bastard": false,
+    "count": 1622,
+    "lex": "масленица",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1622
+    },
+    "parts": "S"
+  },
+  "матвей": {
+    "bastard": false,
+    "count": 1014,
+    "lex": "матвей",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1014
+    },
+    "parts": "S"
+  },
+  "матрона": {
+    "bastard": false,
+    "count": 2619,
+    "lex": "матрона",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 2619
+    },
+    "parts": "S"
+  },
+  "мать": {
+    "bastard": false,
+    "count": 984,
+    "lex": "мать",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 984
+    },
+    "parts": "S"
+  },
+  "медведь": {
+    "bastard": false,
+    "count": 806,
+    "lex": "медведь",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 806
+    },
+    "parts": "S"
+  },
+  "мессинг": {
+    "bastard": true,
+    "count": 959,
+    "lex": "мессинг",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 959
+    },
+    "parts": "S"
+  },
+  "месяц": {
+    "bastard": false,
+    "count": 32132,
+    "lex": "месяц",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 32132
+    },
+    "parts": "S"
+  },
+  "месячные": {
+    "bastard": false,
+    "count": 867,
+    "lex": "месячные",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 867
+    },
+    "parts": "S"
+  },
+  "миллер": {
+    "bastard": false,
+    "count": 59611,
+    "lex": "миллер",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 59611
+    },
+    "parts": "S"
+  },
+  "михаил": {
+    "bastard": false,
+    "count": 1241,
+    "lex": "михаил",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1241
+    },
+    "parts": "S"
+  },
+  "могила": {
+    "bastard": false,
+    "count": 1094,
+    "lex": "могила",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1094
+    },
+    "parts": "S"
+  },
+  "модель": {
+    "bastard": false,
+    "count": 2752,
+    "lex": "модель",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 2752
+    },
+    "parts": "S"
+  },
+  "молитва": {
+    "bastard": false,
+    "count": 6194,
+    "lex": "молитва",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 6194
+    },
+    "parts": "S"
+  },
+  "московский": {
+    "bastard": false,
+    "count": 2619,
+    "lex": "московский",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 2619
+    },
+    "parts": "A"
+  },
+  "мужской": {
+    "bastard": false,
+    "count": 16351,
+    "lex": "мужской",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 16351
+    },
+    "parts": "A"
+  },
+  "мужчина": {
+    "bastard": false,
+    "count": 16187,
+    "lex": "мужчина",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 16187
+    },
+    "parts": "S"
+  },
+  "мусульманский": {
+    "bastard": false,
+    "count": 2397,
+    "lex": "мусульманский",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 2397
+    },
+    "parts": "A"
+  },
+  "мы": {
+    "bastard": false,
+    "count": 1092,
+    "lex": "мы",
+    "non_cyrillic": false,
+    "part_speech": {
+      "SPRO": 1092
+    },
+    "parts": "SPRO"
+  },
+  "мышь": {
+    "bastard": false,
+    "count": 2425,
+    "lex": "мышь",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 2425
+    },
+    "parts": "S"
+  },
+  "мэрилин": {
+    "bastard": false,
+    "count": 782,
+    "lex": "мэрилин",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 782
+    },
+    "parts": "S"
+  },
+  "на": {
+    "bastard": false,
+    "count": 1733332,
+    "lex": "на",
+    "non_cyrillic": false,
+    "part_speech": {
+      "PR": 1733332
+    },
+    "parts": "PR"
+  },
+  "называть": {
+    "bastard": false,
+    "count": 800,
+    "lex": "называть",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 800
+    },
+    "parts": "V"
+  },
+  "налог": {
+    "bastard": false,
+    "count": 6607,
+    "lex": "налог",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 6607
+    },
+    "parts": "S"
+  },
+  "народный": {
+    "bastard": false,
+    "count": 3614,
+    "lex": "народный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 3614
+    },
+    "parts": "A"
+  },
+  "настоящий": {
+    "bastard": false,
+    "count": 1730,
+    "lex": "настоящий",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 1730
+    },
+    "parts": "A"
+  },
+  "настя": {
+    "bastard": false,
+    "count": 1663,
+    "lex": "настя",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1663
+    },
+    "parts": "S"
+  },
+  "натальный": {
+    "bastard": false,
+    "count": 4145,
+    "lex": "натальный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 4145
+    },
+    "parts": "A"
+  },
+  "наталья": {
+    "bastard": false,
+    "count": 783,
+    "lex": "наталья",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 783
+    },
+    "parts": "S"
+  },
+  "начинающий": {
+    "bastard": false,
+    "count": 816,
+    "lex": "начинающий",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 816
+    },
+    "parts": "S"
+  },
+  "неблагоприятный": {
+    "bastard": false,
+    "count": 833,
+    "lex": "неблагоприятный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 833
+    },
+    "parts": "A"
+  },
+  "недвижимость": {
+    "bastard": false,
+    "count": 913,
+    "lex": "недвижимость",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 913
+    },
+    "parts": "S"
+  },
+  "неделя": {
+    "bastard": false,
+    "count": 44826,
+    "lex": "неделя",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 44826
+    },
+    "parts": "S"
+  },
+  "немецкий": {
+    "bastard": false,
+    "count": 2037,
+    "lex": "немецкий",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 2037
+    },
+    "parts": "A"
+  },
+  "необычный": {
+    "bastard": false,
+    "count": 1105,
+    "lex": "необычный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 1105
+    },
+    "parts": "A"
+  },
+  "неожиданный": {
+    "bastard": false,
+    "count": 2432,
+    "lex": "неожиданный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 2432
+    },
+    "parts": "A"
+  },
+  "неприятный": {
+    "bastard": false,
+    "count": 923,
+    "lex": "неприятный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 923
+    },
+    "parts": "A"
+  },
+  "нерабочий": {
+    "bastard": false,
+    "count": 2363,
+    "lex": "нерабочий",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 2363
+    },
+    "parts": "A"
+  },
+  "нет": {
+    "bastard": false,
+    "count": 27954,
+    "lex": "нет",
+    "non_cyrillic": false,
+    "part_speech": {
+      "ADV": 5406,
+      "PART": 22548
+    },
+    "parts": "PART,ADV"
+  },
+  "нива": {
+    "bastard": false,
+    "count": 5980,
+    "lex": "нива",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 5980
+    },
+    "parts": "S"
+  },
+  "новогодний": {
+    "bastard": false,
+    "count": 1685,
+    "lex": "новогодний",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 1685
+    },
+    "parts": "A"
+  },
+  "новолуние": {
+    "bastard": false,
+    "count": 8264,
+    "lex": "новолуние",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 8264
+    },
+    "parts": "S"
+  },
+  "новость": {
+    "bastard": false,
+    "count": 12036,
+    "lex": "новость",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 12036
+    },
+    "parts": "S"
+  },
+  "новый": {
+    "bastard": false,
+    "count": 24206,
+    "lex": "новый",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 24206
+    },
+    "parts": "A"
+  },
+  "ноябрь": {
+    "bastard": false,
+    "count": 433859,
+    "lex": "ноябрь",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 433859
+    },
+    "parts": "S"
+  },
+  "ноябрьский": {
+    "bastard": false,
+    "count": 3334,
+    "lex": "ноябрьский",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 3334
+    },
+    "parts": "A"
+  },
+  "нужно": {
+    "bastard": false,
+    "count": 1106,
+    "lex": "нужно",
+    "non_cyrillic": false,
+    "part_speech": {
+      "ADV": 1106
+    },
+    "parts": "ADV"
+  },
+  "нумерология": {
+    "bastard": true,
+    "count": 25482,
+    "lex": "нумерология",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 25482
+    },
+    "parts": "S"
+  },
+  "нумероскоп": {
+    "bastard": false,
+    "count": 1194,
+    "lex": "нумероскоп",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1194
+    },
+    "parts": "S"
+  },
+  "о": {
+    "bastard": false,
+    "count": 3636,
+    "lex": "о",
+    "non_cyrillic": false,
+    "part_speech": {
+      "PR": 3636
+    },
+    "parts": "PR"
+  },
+  "обо": {
+    "bastard": false,
+    "count": 801,
+    "lex": "обо",
+    "non_cyrillic": false,
+    "part_speech": {
+      "PR": 801
+    },
+    "parts": "PR"
+  },
+  "обозначать": {
+    "bastard": false,
+    "count": 821,
+    "lex": "обозначать",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 821
+    },
+    "parts": "V"
+  },
+  "обои": {
+    "bastard": false,
+    "count": 1685,
+    "lex": "обои",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1685
+    },
+    "parts": "S"
+  },
+  "овен": {
+    "bastard": false,
+    "count": 32747,
+    "lex": "овен",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 32747
+    },
+    "parts": "S"
+  },
+  "овца": {
+    "bastard": false,
+    "count": 9845,
+    "lex": "овца",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 9845
+    },
+    "parts": "S"
+  },
+  "огородник": {
+    "bastard": false,
+    "count": 836,
+    "lex": "огородник",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 836
+    },
+    "parts": "S"
+  },
+  "означать": {
+    "bastard": false,
+    "count": 6781,
+    "lex": "означать",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 6781
+    },
+    "parts": "V"
+  },
+  "окрашивание": {
+    "bastard": false,
+    "count": 7903,
+    "lex": "окрашивание",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 7903
+    },
+    "parts": "S"
+  },
+  "октябрь": {
+    "bastard": false,
+    "count": 4928,
+    "lex": "октябрь",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 4928
+    },
+    "parts": "S"
+  },
+  "окулус": {
+    "bastard": true,
+    "count": 6090,
+    "lex": "окулус",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 6090
+    },
+    "parts": "S"
+  },
+  "ольга": {
+    "bastard": false,
+    "count": 1468,
+    "lex": "ольга",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1468
+    },
+    "parts": "S"
+  },
+  "он": {
+    "bastard": false,
+    "count": 1960,
+    "lex": "он",
+    "non_cyrillic": false,
+    "part_speech": {
+      "SPRO": 1960
+    },
+    "parts": "SPRO"
+  },
+  "они": {
+    "bastard": false,
+    "count": 1770,
+    "lex": "они",
+    "non_cyrillic": false,
+    "part_speech": {
+      "SPRO": 1770
+    },
+    "parts": "SPRO"
+  },
+  "онлайн": {
+    "bastard": false,
+    "count": 531069,
+    "lex": "онлайн",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 10877,
+      "ADV": 520192
+    },
+    "parts": "ADV,A"
+  },
+  "оракул": {
+    "bastard": false,
+    "count": 17563,
+    "lex": "оракул",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 17563
+    },
+    "parts": "S"
+  },
+  "от": {
+    "bastard": false,
+    "count": 16682,
+    "lex": "от",
+    "non_cyrillic": false,
+    "part_speech": {
+      "PR": 16682
+    },
+    "parts": "PR"
+  },
+  "отдыхать": {
+    "bastard": false,
+    "count": 5506,
+    "lex": "отдыхать",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 5506
+    },
+    "parts": "V"
+  },
+  "отношение": {
+    "bastard": false,
+    "count": 32215,
+    "lex": "отношение",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 32215
+    },
+    "parts": "S"
+  },
+  "официальный": {
+    "bastard": false,
+    "count": 905,
+    "lex": "официальный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 905
+    },
+    "parts": "A"
+  },
+  "павел": {
+    "bastard": false,
+    "count": 835,
+    "lex": "павел",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 835
+    },
+    "parts": "S"
+  },
+  "пара": {
+    "bastard": false,
+    "count": 838,
+    "lex": "пара",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 838
+    },
+    "parts": "S"
+  },
+  "парень": {
+    "bastard": false,
+    "count": 2620,
+    "lex": "парень",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 2620
+    },
+    "parts": "S"
+  },
+  "пасха": {
+    "bastard": false,
+    "count": 1478,
+    "lex": "пасха",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1478
+    },
+    "parts": "S"
+  },
+  "пасьянс": {
+    "bastard": false,
+    "count": 22175,
+    "lex": "пасьянс",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 22175
+    },
+    "parts": "S"
+  },
+  "паук": {
+    "bastard": false,
+    "count": 1161,
+    "lex": "паук",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1161
+    },
+    "parts": "S"
+  },
+  "пенсионер": {
+    "bastard": false,
+    "count": 5253,
+    "lex": "пенсионер",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 5253
+    },
+    "parts": "S"
+  },
+  "пенсия": {
+    "bastard": false,
+    "count": 22570,
+    "lex": "пенсия",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 22570
+    },
+    "parts": "S"
+  },
+  "перемена": {
+    "bastard": false,
+    "count": 33765,
+    "lex": "перемена",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 33765
+    },
+    "parts": "S"
+  },
+  "пифагор": {
+    "bastard": false,
+    "count": 3195,
+    "lex": "пифагор",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 3195
+    },
+    "parts": "S"
+  },
+  "плакать": {
+    "bastard": false,
+    "count": 1587,
+    "lex": "плакать",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 1587
+    },
+    "parts": "V"
+  },
+  "по": {
+    "bastard": false,
+    "count": 278196,
+    "lex": "по",
+    "non_cyrillic": false,
+    "part_speech": {
+      "PR": 278196
+    },
+    "parts": "PR"
+  },
+  "повышение": {
+    "bastard": false,
+    "count": 15941,
+    "lex": "повышение",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 15941
+    },
+    "parts": "S"
+  },
+  "погадать": {
+    "bastard": false,
+    "count": 5554,
+    "lex": "погадать",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 5554
+    },
+    "parts": "V"
+  },
+  "погода": {
+    "bastard": false,
+    "count": 769,
+    "lex": "погода",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 769
+    },
+    "parts": "S"
+  },
+  "пожар": {
+    "bastard": false,
+    "count": 2220,
+    "lex": "пожар",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 2220
+    },
+    "parts": "S"
+  },
+  "покойник": {
+    "bastard": false,
+    "count": 802,
+    "lex": "покойник",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 802
+    },
+    "parts": "S"
+  },
+  "полина": {
+    "bastard": false,
+    "count": 1061,
+    "lex": "полина",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1061
+    },
+    "parts": "S"
+  },
+  "политолог": {
+    "bastard": false,
+    "count": 1347,
+    "lex": "политолог",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1347
+    },
+    "parts": "S"
+  },
+  "полнолуние": {
+    "bastard": false,
+    "count": 11272,
+    "lex": "полнолуние",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 11272
+    },
+    "parts": "S"
+  },
+  "порядок": {
+    "bastard": false,
+    "count": 1429,
+    "lex": "порядок",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1429
+    },
+    "parts": "S"
+  },
+  "последний": {
+    "bastard": false,
+    "count": 12809,
+    "lex": "последний",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 12809
+    },
+    "parts": "A"
+  },
+  "посмотреть": {
+    "bastard": false,
+    "count": 4616,
+    "lex": "посмотреть",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 4616
+    },
+    "parts": "V"
+  },
+  "пост": {
+    "bastard": false,
+    "count": 946,
+    "lex": "пост",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 946
+    },
+    "parts": "S"
+  },
+  "постигать": {
+    "bastard": false,
+    "count": 2432,
+    "lex": "постигать",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 2432
+    },
+    "parts": "V"
+  },
+  "похороны": {
+    "bastard": false,
+    "count": 866,
+    "lex": "похороны",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 866
+    },
+    "parts": "S"
+  },
+  "правдивый": {
+    "bastard": false,
+    "count": 845,
+    "lex": "правдивый",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 845
+    },
+    "parts": "A"
+  },
+  "правительство": {
+    "bastard": false,
+    "count": 6803,
+    "lex": "правительство",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 6803
+    },
+    "parts": "S"
+  },
+  "православный": {
+    "bastard": false,
+    "count": 2631,
+    "lex": "православный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 2631
+    },
+    "parts": "A"
+  },
+  "праздник": {
+    "bastard": false,
+    "count": 77454,
+    "lex": "праздник",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 77454
+    },
+    "parts": "S"
+  },
+  "праздничный": {
+    "bastard": false,
+    "count": 17887,
+    "lex": "праздничный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 17887
+    },
+    "parts": "A"
+  },
+  "предсказание": {
+    "bastard": false,
+    "count": 34390,
+    "lex": "предсказание",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 34390
+    },
+    "parts": "S"
+  },
+  "при": {
+    "bastard": false,
+    "count": 3677,
+    "lex": "при",
+    "non_cyrillic": false,
+    "part_speech": {
+      "PR": 3677
+    },
+    "parts": "PR"
+  },
+  "приворот": {
+    "bastard": false,
+    "count": 1304,
+    "lex": "приворот",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1304
+    },
+    "parts": "S"
+  },
+  "приглашение": {
+    "bastard": false,
+    "count": 1009,
+    "lex": "приглашение",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1009
+    },
+    "parts": "S"
+  },
+  "прикол": {
+    "bastard": false,
+    "count": 7191,
+    "lex": "прикол",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 7191
+    },
+    "parts": "S"
+  },
+  "примета": {
+    "bastard": false,
+    "count": 5399,
+    "lex": "примета",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 5399
+    },
+    "parts": "S"
+  },
+  "присниться": {
+    "bastard": false,
+    "count": 5919,
+    "lex": "присниться",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 5919
+    },
+    "parts": "V"
+  },
+  "прическа": {
+    "bastard": false,
+    "count": 1389,
+    "lex": "прическа",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1389
+    },
+    "parts": "S"
+  },
+  "про": {
+    "bastard": false,
+    "count": 935,
+    "lex": "про",
+    "non_cyrillic": false,
+    "part_speech": {
+      "PR": 935
+    },
+    "parts": "PR"
+  },
+  "прогноз": {
+    "bastard": false,
+    "count": 24993,
+    "lex": "прогноз",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 24993
+    },
+    "parts": "S"
+  },
+  "производственный": {
+    "bastard": false,
+    "count": 12234,
+    "lex": "производственный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 12234
+    },
+    "parts": "A"
+  },
+  "происхождение": {
+    "bastard": false,
+    "count": 2422,
+    "lex": "происхождение",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 2422
+    },
+    "parts": "S"
+  },
+  "пророчество": {
+    "bastard": false,
+    "count": 930,
+    "lex": "пророчество",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 930
+    },
+    "parts": "S"
+  },
+  "процент": {
+    "bastard": false,
+    "count": 1121,
+    "lex": "процент",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1121
+    },
+    "parts": "S"
+  },
+  "прошлый": {
+    "bastard": false,
+    "count": 882,
+    "lex": "прошлый",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 882
+    },
+    "parts": "A"
+  },
+  "психологический": {
+    "bastard": false,
+    "count": 1674,
+    "lex": "психологический",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 1674
+    },
+    "parts": "A"
+  },
+  "работа": {
+    "bastard": false,
+    "count": 1790,
+    "lex": "работа",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1790
+    },
+    "parts": "S"
+  },
+  "рабочий": {
+    "bastard": false,
+    "count": 2478,
+    "lex": "рабочий",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 2478
+    },
+    "parts": "A"
+  },
+  "разгадка": {
+    "bastard": false,
+    "count": 946,
+    "lex": "разгадка",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 946
+    },
+    "parts": "S"
+  },
+  "разговаривать": {
+    "bastard": false,
+    "count": 1159,
+    "lex": "разговаривать",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 1159
+    },
+    "parts": "V"
+  },
+  "рак": {
+    "bastard": false,
+    "count": 39859,
+    "lex": "рак",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 39859
+    },
+    "parts": "S"
+  },
+  "рамблер": {
+    "bastard": false,
+    "count": 18075,
+    "lex": "рамблер",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 18075
+    },
+    "parts": "S"
+  },
+  "расклад": {
+    "bastard": false,
+    "count": 1681,
+    "lex": "расклад",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1681
+    },
+    "parts": "S"
+  },
+  "распечатывать": {
+    "bastard": false,
+    "count": 12970,
+    "lex": "распечатывать",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 12970
+    },
+    "parts": "V"
+  },
+  "рассол": {
+    "bastard": false,
+    "count": 939,
+    "lex": "рассол",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 939
+    },
+    "parts": "S"
+  },
+  "рассчитать": {
+    "bastard": false,
+    "count": 1170,
+    "lex": "рассчитать",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 1170
+    },
+    "parts": "V"
+  },
+  "расти": {
+    "bastard": false,
+    "count": 9543,
+    "lex": "расти",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 9543
+    },
+    "parts": "V"
+  },
+  "растолкование": {
+    "bastard": false,
+    "count": 3287,
+    "lex": "растолкование",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 3287
+    },
+    "parts": "S"
+  },
+  "расшифровка": {
+    "bastard": false,
+    "count": 1993,
+    "lex": "расшифровка",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1993
+    },
+    "parts": "S"
+  },
+  "ребенок": {
+    "bastard": false,
+    "count": 1420,
+    "lex": "ребенок",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1420
+    },
+    "parts": "S"
+  },
+  "регистрация": {
+    "bastard": false,
+    "count": 2384,
+    "lex": "регистрация",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 2384
+    },
+    "parts": "S"
+  },
+  "рожать": {
+    "bastard": false,
+    "count": 1420,
+    "lex": "рожать",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 1420
+    },
+    "parts": "V"
+  },
+  "рождение": {
+    "bastard": false,
+    "count": 60743,
+    "lex": "рождение",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 60743
+    },
+    "parts": "S"
+  },
+  "россия": {
+    "bastard": false,
+    "count": 64319,
+    "lex": "россия",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 64319
+    },
+    "parts": "S"
+  },
+  "ру": {
+    "bastard": false,
+    "count": 5907,
+    "lex": "ру",
+    "non_cyrillic": true,
+    "part_speech": {
+      "null": 5907
+    },
+    "parts": "None"
+  },
+  "рука": {
+    "bastard": false,
+    "count": 11171,
+    "lex": "рука",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 11171
+    },
+    "parts": "S"
+  },
+  "руно": {
+    "bastard": false,
+    "count": 12076,
+    "lex": "руно",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 12076
+    },
+    "parts": "S"
+  },
+  "руны": {
+    "bastard": false,
+    "count": 14062,
+    "lex": "руны",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 14062
+    },
+    "parts": "S"
+  },
+  "русский": {
+    "bastard": false,
+    "count": 1308,
+    "lex": "русский",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1308
+    },
+    "parts": "S"
+  },
+  "рф": {
+    "bastard": false,
+    "count": 6803,
+    "lex": "рф",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 6803
+    },
+    "parts": "S"
+  },
+  "рыба": {
+    "bastard": false,
+    "count": 26554,
+    "lex": "рыба",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 26554
+    },
+    "parts": "S"
+  },
+  "с": {
+    "bastard": false,
+    "count": 77776,
+    "lex": "с",
+    "non_cyrillic": false,
+    "part_speech": {
+      "PR": 76966,
+      "S": 810
+    },
+    "parts": "PR,S"
+  },
+  "садовод": {
+    "bastard": false,
+    "count": 836,
+    "lex": "садовод",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 836
+    },
+    "parts": "S"
+  },
+  "сайт": {
+    "bastard": false,
+    "count": 905,
+    "lex": "сайт",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 905
+    },
+    "parts": "S"
+  },
+  "сало": {
+    "bastard": false,
+    "count": 939,
+    "lex": "сало",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 939
+    },
+    "parts": "S"
+  },
+  "самостоятельно": {
+    "bastard": false,
+    "count": 1304,
+    "lex": "самостоятельно",
+    "non_cyrillic": false,
+    "part_speech": {
+      "ADV": 1304
+    },
+    "parts": "ADV"
+  },
+  "самый": {
+    "bastard": false,
+    "count": 1106,
+    "lex": "самый",
+    "non_cyrillic": false,
+    "part_speech": {
+      "APRO": 1106
+    },
+    "parts": "APRO"
+  },
+  "сбываться": {
+    "bastard": false,
+    "count": 2617,
+    "lex": "сбываться",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 2617
+    },
+    "parts": "V"
+  },
+  "свадьба": {
+    "bastard": false,
+    "count": 3655,
+    "lex": "свадьба",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 3655
+    },
+    "parts": "S"
+  },
+  "светлана": {
+    "bastard": false,
+    "count": 1005,
+    "lex": "светлана",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1005
+    },
+    "parts": "S"
+  },
+  "свой": {
+    "bastard": false,
+    "count": 797,
+    "lex": "свой",
+    "non_cyrillic": false,
+    "part_speech": {
+      "APRO": 797
+    },
+    "parts": "APRO"
+  },
+  "сегодня": {
+    "bastard": false,
+    "count": 531429,
+    "lex": "сегодня",
+    "non_cyrillic": false,
+    "part_speech": {
+      "ADV": 531429
+    },
+    "parts": "ADV"
+  },
+  "сегодняшний": {
+    "bastard": false,
+    "count": 1181,
+    "lex": "сегодняшний",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 1181
+    },
+    "parts": "A"
+  },
+  "сезон": {
+    "bastard": false,
+    "count": 12738,
+    "lex": "сезон",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 12738
+    },
+    "parts": "S"
+  },
+  "сейчас": {
+    "bastard": false,
+    "count": 8978,
+    "lex": "сейчас",
+    "non_cyrillic": false,
+    "part_speech": {
+      "ADV": 8978
+    },
+    "parts": "ADV"
+  },
+  "секс": {
+    "bastard": false,
+    "count": 1178,
+    "lex": "секс",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1178
+    },
+    "parts": "S"
+  },
+  "сексуальный": {
+    "bastard": false,
+    "count": 881,
+    "lex": "сексуальный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 881
+    },
+    "parts": "A"
+  },
+  "сергей": {
+    "bastard": false,
+    "count": 1738,
+    "lex": "сергей",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1738
+    },
+    "parts": "S"
+  },
+  "серия": {
+    "bastard": false,
+    "count": 8094,
+    "lex": "серия",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 8094
+    },
+    "parts": "S"
+  },
+  "сибирский": {
+    "bastard": false,
+    "count": 1175,
+    "lex": "сибирский",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 1175
+    },
+    "parts": "A"
+  },
+  "символ": {
+    "bastard": false,
+    "count": 2861,
+    "lex": "символ",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 2861
+    },
+    "parts": "S"
+  },
+  "симптом": {
+    "bastard": false,
+    "count": 6124,
+    "lex": "симптом",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 6124
+    },
+    "parts": "S"
+  },
+  "скачать": {
+    "bastard": false,
+    "count": 1219,
+    "lex": "скачать",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 1219
+    },
+    "parts": "V"
+  },
+  "сколько": {
+    "bastard": false,
+    "count": 2378,
+    "lex": "сколько",
+    "non_cyrillic": false,
+    "part_speech": {
+      "ADV": 2378
+    },
+    "parts": "ADV"
+  },
+  "скорпион": {
+    "bastard": false,
+    "count": 38317,
+    "lex": "скорпион",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 38317
+    },
+    "parts": "S"
+  },
+  "славянский": {
+    "bastard": false,
+    "count": 1109,
+    "lex": "славянский",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 1109
+    },
+    "parts": "A"
+  },
+  "следующий": {
+    "bastard": false,
+    "count": 1215,
+    "lex": "следующий",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 1215
+    },
+    "parts": "A"
+  },
+  "случай": {
+    "bastard": false,
+    "count": 810,
+    "lex": "случай",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 810
+    },
+    "parts": "S"
+  },
+  "смотреть": {
+    "bastard": false,
+    "count": 10815,
+    "lex": "смотреть",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 10815
+    },
+    "parts": "V"
+  },
+  "снег": {
+    "bastard": false,
+    "count": 1488,
+    "lex": "снег",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1488
+    },
+    "parts": "S"
+  },
+  "сниться": {
+    "bastard": false,
+    "count": 57990,
+    "lex": "сниться",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 57990
+    },
+    "parts": "V"
+  },
+  "сновидение": {
+    "bastard": false,
+    "count": 20686,
+    "lex": "сновидение",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 20686
+    },
+    "parts": "S"
+  },
+  "снів": {
+    "bastard": false,
+    "count": 942,
+    "lex": "снів",
+    "non_cyrillic": true,
+    "part_speech": {
+      "null": 942
+    },
+    "parts": "None"
+  },
+  "собака": {
+    "bastard": false,
+    "count": 8170,
+    "lex": "собака",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 8170
+    },
+    "parts": "S"
+  },
+  "совместимость": {
+    "bastard": false,
+    "count": 177838,
+    "lex": "совместимость",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 177838
+    },
+    "parts": "S"
+  },
+  "современный": {
+    "bastard": false,
+    "count": 972,
+    "lex": "современный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 972
+    },
+    "parts": "A"
+  },
+  "сон": {
+    "bastard": false,
+    "count": 285355,
+    "lex": "сон",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 285355
+    },
+    "parts": "S"
+  },
+  "соник": {
+    "bastard": true,
+    "count": 25258,
+    "lex": "соник",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 25258
+    },
+    "parts": "S"
+  },
+  "сонник": {
+    "bastard": false,
+    "count": 836128,
+    "lex": "сонник",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 836128
+    },
+    "parts": "S"
+  },
+  "сонік": {
+    "bastard": false,
+    "count": 942,
+    "lex": "сонік",
+    "non_cyrillic": true,
+    "part_speech": {
+      "null": 942
+    },
+    "parts": "None"
+  },
+  "сооник": {
+    "bastard": true,
+    "count": 1373,
+    "lex": "сооник",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1373
+    },
+    "parts": "S"
+  },
+  "список": {
+    "bastard": false,
+    "count": 4596,
+    "lex": "список",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 4596
+    },
+    "parts": "S"
+  },
+  "старинный": {
+    "bastard": false,
+    "count": 3163,
+    "lex": "старинный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 3163
+    },
+    "parts": "A"
+  },
+  "старость": {
+    "bastard": false,
+    "count": 1353,
+    "lex": "старость",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1353
+    },
+    "parts": "S"
+  },
+  "стихия": {
+    "bastard": false,
+    "count": 1957,
+    "lex": "стихия",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1957
+    },
+    "parts": "S"
+  },
+  "стоить": {
+    "bastard": false,
+    "count": 1257,
+    "lex": "стоить",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 1257
+    },
+    "parts": "V"
+  },
+  "стол": {
+    "bastard": false,
+    "count": 1685,
+    "lex": "стол",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1685
+    },
+    "parts": "S"
+  },
+  "стрелец": {
+    "bastard": false,
+    "count": 23360,
+    "lex": "стрелец",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 23360
+    },
+    "parts": "S"
+  },
+  "стрижка": {
+    "bastard": false,
+    "count": 115092,
+    "lex": "стрижка",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 115092
+    },
+    "parts": "S"
+  },
+  "стричь": {
+    "bastard": false,
+    "count": 2734,
+    "lex": "стричь",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 2734
+    },
+    "parts": "V"
+  },
+  "судьба": {
+    "bastard": false,
+    "count": 11626,
+    "lex": "судьба",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 11626
+    },
+    "parts": "S"
+  },
+  "суеверие": {
+    "bastard": false,
+    "count": 1214,
+    "lex": "суеверие",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1214
+    },
+    "parts": "S"
+  },
+  "сутки": {
+    "bastard": false,
+    "count": 3526,
+    "lex": "сутки",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 3526
+    },
+    "parts": "S"
+  },
+  "сценарий": {
+    "bastard": false,
+    "count": 7191,
+    "lex": "сценарий",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 7191
+    },
+    "parts": "S"
+  },
+  "сьогодні": {
+    "bastard": false,
+    "count": 2341,
+    "lex": "сьогодні",
+    "non_cyrillic": true,
+    "part_speech": {
+      "null": 2341
+    },
+    "parts": "None"
+  },
+  "тайна": {
+    "bastard": false,
+    "count": 3148,
+    "lex": "тайна",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 3148
+    },
+    "parts": "S"
+  },
+  "таракан": {
+    "bastard": false,
+    "count": 1599,
+    "lex": "таракан",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1599
+    },
+    "parts": "S"
+  },
+  "таро": {
+    "bastard": false,
+    "count": 104075,
+    "lex": "таро",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 104075
+    },
+    "parts": "S"
+  },
+  "татьяна": {
+    "bastard": false,
+    "count": 5364,
+    "lex": "татьяна",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 5364
+    },
+    "parts": "S"
+  },
+  "телец": {
+    "bastard": false,
+    "count": 33051,
+    "lex": "телец",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 33051
+    },
+    "parts": "S"
+  },
+  "тельце": {
+    "bastard": false,
+    "count": 786,
+    "lex": "тельце",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 786
+    },
+    "parts": "S"
+  },
+  "тест": {
+    "bastard": false,
+    "count": 2512,
+    "lex": "тест",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 2512
+    },
+    "parts": "S"
+  },
+  "толкование": {
+    "bastard": false,
+    "count": 230953,
+    "lex": "толкование",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 230953
+    },
+    "parts": "S"
+  },
+  "толковання": {
+    "bastard": true,
+    "count": 942,
+    "lex": "толковання",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 942
+    },
+    "parts": "S"
+  },
+  "толкователь": {
+    "bastard": false,
+    "count": 39209,
+    "lex": "толкователь",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 39209
+    },
+    "parts": "S"
+  },
+  "толковый": {
+    "bastard": false,
+    "count": 5107,
+    "lex": "толковый",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 5107
+    },
+    "parts": "A"
+  },
+  "тот": {
+    "bastard": false,
+    "count": 8931,
+    "lex": "тот",
+    "non_cyrillic": false,
+    "part_speech": {
+      "APRO": 8931
+    },
+    "parts": "APRO"
+  },
+  "точный": {
+    "bastard": false,
+    "count": 1106,
+    "lex": "точный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 1106
+    },
+    "parts": "A"
+  },
+  "транспортный": {
+    "bastard": false,
+    "count": 932,
+    "lex": "транспортный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 932
+    },
+    "parts": "A"
+  },
+  "троица": {
+    "bastard": false,
+    "count": 912,
+    "lex": "троица",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 912
+    },
+    "parts": "S"
+  },
+  "ты": {
+    "bastard": false,
+    "count": 801,
+    "lex": "ты",
+    "non_cyrillic": false,
+    "part_speech": {
+      "SPRO": 801
+    },
+    "parts": "SPRO"
+  },
+  "убывать": {
+    "bastard": false,
+    "count": 2704,
+    "lex": "убывать",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 2704
+    },
+    "parts": "V"
+  },
+  "увеличение": {
+    "bastard": false,
+    "count": 965,
+    "lex": "увеличение",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 965
+    },
+    "parts": "S"
+  },
+  "удар": {
+    "bastard": false,
+    "count": 2432,
+    "lex": "удар",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 2432
+    },
+    "parts": "S"
+  },
+  "удача": {
+    "bastard": false,
+    "count": 1937,
+    "lex": "удача",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1937
+    },
+    "parts": "S"
+  },
+  "уже": {
+    "bastard": false,
+    "count": 8931,
+    "lex": "уже",
+    "non_cyrillic": false,
+    "part_speech": {
+      "ADV": 8931
+    },
+    "parts": "ADV"
+  },
+  "украина": {
+    "bastard": false,
+    "count": 3804,
+    "lex": "украина",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 3804
+    },
+    "parts": "S"
+  },
+  "украшение": {
+    "bastard": false,
+    "count": 797,
+    "lex": "украшение",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 797
+    },
+    "parts": "S"
+  },
+  "умерший": {
+    "bastard": false,
+    "count": 1159,
+    "lex": "умерший",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1159
+    },
+    "parts": "S"
+  },
+  "утверждать": {
+    "bastard": false,
+    "count": 6803,
+    "lex": "утверждать",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 6803
+    },
+    "parts": "V"
+  },
+  "учебный": {
+    "bastard": false,
+    "count": 774,
+    "lex": "учебный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 774
+    },
+    "parts": "A"
+  },
+  "фаза": {
+    "bastard": false,
+    "count": 53854,
+    "lex": "фаза",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 53854
+    },
+    "parts": "S"
+  },
+  "фамилия": {
+    "bastard": false,
+    "count": 11953,
+    "lex": "фамилия",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 11953
+    },
+    "parts": "S"
+  },
+  "феломена": {
+    "bastard": false,
+    "count": 823,
+    "lex": "феломена",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 823
+    },
+    "parts": "S"
+  },
+  "физический": {
+    "bastard": false,
+    "count": 4762,
+    "lex": "физический",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 4762
+    },
+    "parts": "A"
+  },
+  "формат": {
+    "bastard": false,
+    "count": 1962,
+    "lex": "формат",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1962
+    },
+    "parts": "S"
+  },
+  "фото": {
+    "bastard": false,
+    "count": 4013,
+    "lex": "фото",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 4013
+    },
+    "parts": "S"
+  },
+  "фрейд": {
+    "bastard": false,
+    "count": 849,
+    "lex": "фрейд",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 849
+    },
+    "parts": "S"
+  },
+  "характеристика": {
+    "bastard": false,
+    "count": 21630,
+    "lex": "характеристика",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 21630
+    },
+    "parts": "S"
+  },
+  "хаяла": {
+    "bastard": false,
+    "count": 1092,
+    "lex": "хаяла",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1092
+    },
+    "parts": "S"
+  },
+  "хиромантия": {
+    "bastard": false,
+    "count": 12300,
+    "lex": "хиромантия",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 12300
+    },
+    "parts": "S"
+  },
+  "цвет": {
+    "bastard": false,
+    "count": 2821,
+    "lex": "цвет",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 2821
+    },
+    "parts": "S"
+  },
+  "целительница": {
+    "bastard": false,
+    "count": 1175,
+    "lex": "целительница",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1175
+    },
+    "parts": "S"
+  },
+  "цена": {
+    "bastard": false,
+    "count": 4013,
+    "lex": "цена",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 4013
+    },
+    "parts": "S"
+  },
+  "церковный": {
+    "bastard": false,
+    "count": 4104,
+    "lex": "церковный",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 4104
+    },
+    "parts": "A"
+  },
+  "цыганский": {
+    "bastard": false,
+    "count": 1121,
+    "lex": "цыганский",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 1121
+    },
+    "parts": "A"
+  },
+  "человек": {
+    "bastard": false,
+    "count": 4988,
+    "lex": "человек",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 4988
+    },
+    "parts": "S"
+  },
+  "чем": {
+    "bastard": false,
+    "count": 3524,
+    "lex": "чем",
+    "non_cyrillic": false,
+    "part_speech": {
+      "CONJ": 3524
+    },
+    "parts": "CONJ"
+  },
+  "число": {
+    "bastard": false,
+    "count": 9644,
+    "lex": "число",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 9644
+    },
+    "parts": "S"
+  },
+  "читать": {
+    "bastard": false,
+    "count": 1304,
+    "lex": "читать",
+    "non_cyrillic": false,
+    "part_speech": {
+      "V": 1304
+    },
+    "parts": "V"
+  },
+  "чихалка": {
+    "bastard": false,
+    "count": 7455,
+    "lex": "чихалка",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 7455
+    },
+    "parts": "S"
+  },
+  "что": {
+    "bastard": false,
+    "count": 78674,
+    "lex": "что",
+    "non_cyrillic": false,
+    "part_speech": {
+      "CONJ": 13427,
+      "SPRO": 65247
+    },
+    "parts": "SPRO,CONJ"
+  },
+  "шар": {
+    "bastard": false,
+    "count": 955,
+    "lex": "шар",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 955
+    },
+    "parts": "S"
+  },
+  "шевроле": {
+    "bastard": false,
+    "count": 4013,
+    "lex": "шевроле",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 4013
+    },
+    "parts": "S"
+  },
+  "шепс": {
+    "bastard": true,
+    "count": 782,
+    "lex": "шепс",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 782
+    },
+    "parts": "S"
+  },
+  "эзотерика": {
+    "bastard": false,
+    "count": 1644,
+    "lex": "эзотерика",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 1644
+    },
+    "parts": "S"
+  },
+  "экономический": {
+    "bastard": false,
+    "count": 2168,
+    "lex": "экономический",
+    "non_cyrillic": false,
+    "part_speech": {
+      "A": 2168
+    },
+    "parts": "A"
+  },
+  "экстрасенс": {
+    "bastard": false,
+    "count": 18743,
+    "lex": "экстрасенс",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 18743
+    },
+    "parts": "S"
+  },
+  "юнона": {
+    "bastard": false,
+    "count": 10470,
+    "lex": "юнона",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 10470
+    },
+    "parts": "S"
+  },
+  "я": {
+    "bastard": false,
+    "count": 4115,
+    "lex": "я",
+    "non_cyrillic": false,
+    "part_speech": {
+      "SPRO": 4115
+    },
+    "parts": "SPRO"
+  },
+  "январь": {
+    "bastard": false,
+    "count": 4826,
+    "lex": "январь",
+    "non_cyrillic": false,
+    "part_speech": {
+      "S": 4826
+    },
+    "parts": "S"
+  }
+}
