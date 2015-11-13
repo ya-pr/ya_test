@@ -6,7 +6,6 @@
 """
 
 import json
-import os
 
 
 def save_column(file_r, file_w, sep='\t', col=1, headers=False):
@@ -52,34 +51,3 @@ def pretty_json(obj, file_w):
     :param file_w: файл для записи
     """
     json.dump(obj, file_w, sort_keys=True, indent=2, ensure_ascii=False)
-
-
-def test_save_column():
-    """
-    Тестирование функции save_column
-    """
-    with open('tests/lem/data/input.tsv', 'r') as file_r, \
-            open('tests/lem/data/input.txt', 'w') as file_w:
-        save_column(file_r, file_w, sep='\t', col=2, headers=True)
-    with open('tests/lem/data/input.tsv', 'r') as file_r, \
-            open('tests/lem/data/weights.txt', 'w') as file_w:
-        save_column(file_r, file_w, sep='\t', col=3, headers=True)
-    print('Done test_parse')
-
-
-def test_merge_files():
-    """
-    Тестирование функции merge_files
-    """
-    with open('tests/lem/data/input.txt', 'r') as file_r1, \
-            open('tests/lem/output/lems.txt', 'r') as file_r2, \
-            open('tests/lem/output/output.tsv', 'w') as file_w:
-        merge_files(file_r1, file_r2, file_w, sep='\t')
-    print('Done test_merge_files')
-
-
-if __name__ == '__main__':
-    if not os.path.exists('tests/lem/output'):
-        os.makedirs('tests/lem/output')
-    test_save_column()
-    test_merge_files()
