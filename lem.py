@@ -9,11 +9,11 @@ import json
 import os
 import subprocess
 from collections import Counter
+from itertools import combinations
 from itertools import repeat
 
 from common_functions import merge_files
 from common_functions import pretty_json
-from pairs import pairs
 
 
 def lem(file_r, file_w, mystem='/Applications/mystem', params=None):
@@ -156,6 +156,11 @@ def lem_filter(line_parse, include_bastard=True, include_non_cyrillic=True):
     return line_filter
 
 
+def line_with_part_speeches():
+    # TODO: Функция должна возвращать строку с последовательностью частей речи
+    pass
+
+
 def build_edge_dict(file_json, weights=None,
                     include_bastard=True, include_non_cyrillic=True):
     """
@@ -184,7 +189,7 @@ def build_edge_dict(file_json, weights=None,
         lems = {word['lex'] for word in words}
 
         # составляем список всех возможных пар лемм без повторов
-        pairs_list = pairs(lems, unique=True)
+        pairs_list = combinations(sorted(lems), 2)
 
         # добавляем каждую пару в словарь
         for pair in pairs_list:
