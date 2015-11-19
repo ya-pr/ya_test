@@ -1,3 +1,6 @@
+# THIS IS README BY MMAKS
+# CHANGE 2
+
 ###Содержимое:
 - common_functions.py - общие функции, упрощающие рутину
 - lem.py - функции для работы с леммером Mystem
